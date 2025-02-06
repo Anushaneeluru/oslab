@@ -162,9 +162,9 @@ printf("\nPriority Sheduling \n");
 }
 ```
 ###exp3 command output
-![exp3 command output](a1.png)
-![exp3 command output](a2.png)
 ![exp3 command output](a3.png)
+![exp3 command output](a4.png)
+![exp3 command output](a5.png)
 
 
 
@@ -288,6 +288,6 @@ int main() {
 }
 ```
 ###exp4 command output
-![exp4 command output](a4.png)
-![exp4 command output](a5.png)
+![exp4 command output](a1.png)
+![exp4 command output](a2.png)
 
