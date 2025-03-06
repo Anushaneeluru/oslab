@@ -52,4 +52,4 @@ int main() {
 }
 
 ```
-![screenshot](anusha8.png)
+![screenshot](anusha 8.png)
