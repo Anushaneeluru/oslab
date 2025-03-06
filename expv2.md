@@ -1,4 +1,4 @@
-###Implement Peterson algorithm for critical section problem.
+### Implement Peterson algorithm for critical section problem
 
 
 
