@@ -118,4 +118,4 @@ int main() {
 }
 ```
 ![screenshot](anu7a.png)
-![screenshot](anu7b7b.png)
+![screenshot](anu7b.png)
